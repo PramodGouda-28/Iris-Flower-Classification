@@ -19,3 +19,7 @@ Machine Learning project using the Iris dataset.
 - NumPy
 - Scikit-Learn
 - Google Colab
+
+## Dataset Source
+Iris Dataset
+https://www.kaggle.com/datasets/uciml/iris
